@@ -1,0 +1,10 @@
+org\contactdhawan\customerorders\GetOrders.class
+org\contactdhawan\customerorders\Product.class
+org\contactdhawan\customerorders\CreateOrders.class
+org\contactdhawan\customerorders\Order.class
+org\contactdhawan\customerorders\Customerordersservices.class
+org\contactdhawan\customerorders\package-info.class
+org\contactdhawan\customerorders\ObjectFactory.class
+org\contactdhawan\customerorders\GetOrdersResponse.class
+org\contactdhawan\customerorders\CreateOrdersResponse.class
+org\contactdhawan\customerorders\Customerordersporttype.class
